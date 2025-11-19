@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+    <!-- Animated vector drawable ImageView -->
+    <ImageView
+        android:id="@+id/animatedImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/avd_anim" />
+
+    <!-- University TextView -->
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_to_university"
+        android:textAlignment="center"
+        android:textColor="@color/purple_700"
+        android:textSize="30sp"
+        android:layout_below="@id/animatedImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        tools:fontFamily="@font/amarante" />
+
+    <!-- Your Button -->
+    <!-- Add your button code here if necessary -->
+
+</RelativeLayout>
+
+

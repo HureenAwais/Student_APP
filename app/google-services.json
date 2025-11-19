@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287516853968",
+    "project_id": "java-project-587ff",
+    "storage_bucket": "java-project-587ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287516853968:android:184ffdccacaa426202c0d5",
+        "android_client_info": {
+          "package_name": "com.example.course_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqsjjVlI-qtdVO_QOa0O_aMEtNDFpdGR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

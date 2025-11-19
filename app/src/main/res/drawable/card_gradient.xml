@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background Gradient -->
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#0CF25D"
+                android:centerColor="#336633"
+                android:endColor="#29D9CC"
+                android:angle="315"
+                /> <!-- Specify a value for centerY -->
+        </shape>
+    </item>
+
+    <!-- Transparent Overlay -->
+    <item>
+        <shape>
+            <solid android:color="#76000000"/> <!-- Adjust alpha value for transparency -->
+        </shape>
+    </item>
+
+</layer-list>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">course_work</string>
+    <string name="login">Log In</string>
+    <string name="please_enter_your_email">please Enter your email</string>
+    <string name="password">password</string>
+    <string name="Password">Password</string>
+    <string name="new_user_register">New user? Register</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_a_user_Log_in">Already a user, Log In</string>
+    <string name="welcome">WELCOME</string>
+    <string name="welcome_to_university">University of Reading</string>
+
+    <string name="email">Email</string>
+    <string name="logout">Log out</string>
+    <string name="timetable">Timetable</string>
+    <string name="your_details">Your details</string>
+    <string name="university_of_reading">University of Reading</string>
+
+    <string name="more">More</string>
+    <string name="profile">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="hello_dash_fragment">hello_dash_fragment</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="george_fields">George Fields</string>
+    <string name="studentID">3106645</string>
+    <string name="learning_track">learning track</string>
+    <string name="Course_bsc_computer_science">Course: BSc Computer Science</string>
+    <string name="location_mps_cs">Location: MPS CS</string>
+    <string name="academic_year_2">Academic year: 2</string>
+    <string name="learning_track_undergraduate">Learning track: Undergraduate</string>
+    <string name="grade_distinction">Grade: Distinction</string>
+    <string name="no_timetable_data_available_for_today">No timetable data available for today.</string>
+</resources>

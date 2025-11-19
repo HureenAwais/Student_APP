@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_dashboard"
+        android:icon="@drawable/baseline_dashboard_24"
+        android:title="@string/dashboard"
+        app:iconSize="30dp" />
+
+    <item
+        android:id="@+id/menu_timetable"
+        android:icon="@drawable/baseline_calendar_month_24"
+        android:title="@string/timetable"
+        app:iconSize="30dp" />
+
+
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/baseline_person_24"
+        android:title="@string/profile"
+        app:iconSize="30dp" />
+    <item
+        android:id="@+id/menu_more"
+        android:icon="@drawable/baseline_more_vert_24"
+        android:title="@string/more"
+        app:iconSize="30dp" />
+</menu>
+
+

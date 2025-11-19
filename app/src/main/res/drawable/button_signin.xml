@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Gradient background -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="10dp" />
+            <gradient
+                android:startColor="#89B352"
+                android:centerColor="#1fea00"
+                android:endColor="#1C71A6"
+                android:type="linear"
+                />
+        </shape>
+    </item>
+    <!-- Image drawable -->
+    <item android:drawable="@drawable/baseline_logout_24" />
+</layer-list>
+
